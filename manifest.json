@@ -1,0 +1,8 @@
+{
+  "name": "BlockPuzzle",
+  "short_name": "BlockPuzzle",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0e1a",
+  "theme_color": "#0b0e1a"
+}
